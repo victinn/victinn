@@ -1,5 +1,11 @@
 ### Olá, eu sou o Victor! 👋
 
+
+<table align="right">
+ <tr><td><a href="./README_EN.md">English</a></td></tr>
+ <tr><td><a href="./README.md">Português</a></td></tr>
+</table>
+
 - 🌱 Atualmente estou estudando: Desenvolvimento Web
 - 🗣️ Inglês Fluente
 - 📫 Contate-me no email: victorhenriq77@gmail.com
