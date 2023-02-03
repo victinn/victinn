@@ -1,16 +1,38 @@
-### Hi there 👋
+### Olá, eu sou o Victor! 👋
 
-<!--
-**victinn/victinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou estudando: Desenvolvimento Web
+- 📫 Contate-me no email: victorhenriq77@gmail.com
+- 😄 Pronomes: ele/dele
+- 🗣️ Inglês Fluente
+- 🔭 Técnico em informática e atualmente estudando por cursos como a Origamid e B7Web
 
-Here are some ideas to get you started:
+<details>
+  <summary><strong>⚙️ &nbsp;Tecnologias</strong></summary>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  </div>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><strong>⚙️ &nbsp;Gráfico de atividades Github</strong></summary>
+  <div align="center">
+    <br>
+    <div align="center">
+      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victinn&theme=nord_dark"/>
+    </div>    
+    <br>
+    <div align="center">
+      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victinn&theme=nord_dark"/>
+      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victinn&theme=nord_dark"/>
+    </div>
+    <br>
+    <div align="center">
+      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victinn&theme=nord_dark"/>
+    </div>
+    <br> 
+  </div>
+</details>
