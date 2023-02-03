@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning: Web Development
 - 📫 How to reach me: victorhenriq77@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 - 🔭 IT technician and currently studying on platforms as of Origamid and B7Web
 
 <details>
