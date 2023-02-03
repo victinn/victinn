@@ -43,6 +43,6 @@
   </div>
 </details>
 
-![Snake animation](https://github.com/victinn/victinn/blob/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/victinn/victinn/blob/output/github-contribution-grid-snake.svg)
 
 #### Obrigado pela visita! 😄👋
