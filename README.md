@@ -42,3 +42,5 @@
     <br> 
   </div>
 </details>
+
+### Obrigado pela visita! 😄👋
