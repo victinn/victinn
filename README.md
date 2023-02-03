@@ -1,9 +1,9 @@
 ### Olá, eu sou o Victor! 👋
 
 - 🌱 Atualmente estou estudando: Desenvolvimento Web
+- 🗣️ Inglês Fluente
 - 📫 Contate-me no email: victorhenriq77@gmail.com
 - 😄 Pronomes: ele/dele
-- 🗣️ Inglês Fluente
 - 🔭 Técnico em informática e atualmente estudando por cursos como a Origamid e B7Web
 
 <details>
