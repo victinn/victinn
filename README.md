@@ -29,16 +29,16 @@
   <div align="center">
     <br>
     <div align="center">
-      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victinn&theme=nord_dark"/>
+      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viictor1&theme=nord_dark"/>
     </div>    
     <br>
     <div align="center">
-      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victinn&theme=nord_dark"/>
-      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victinn&theme=nord_dark"/>
+      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viictor1&theme=nord_dark"/>
+      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viictor1&theme=nord_dark"/>
     </div>
     <br>
     <div align="center">
-      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victinn&theme=nord_dark"/>
+      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viictor1&theme=nord_dark"/>
     </div>
     <br> 
   </div>
