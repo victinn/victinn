@@ -6,7 +6,7 @@
  <tr><td><a href="./README.md">Português</a></td></tr>
 </table>
 
-- 🌱 Atualmente estou estudando: Desenvolvimento Web
+- 🌱 Atualmente estou estudando: Desenvolvimento Backend
 - 🗣️ Inglês Fluente
 - 📫 Contate-me no email: victorhenriq77@gmail.com
 - 😄 Pronomes: ele/dele
