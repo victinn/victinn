@@ -6,10 +6,10 @@
  <tr><td><a href="./README.md">Português</a></td></tr>
 </table>
 
-- 🌱 I'm currently learning: Web Development
+- 🌱 I'm currently learning: Backend Development
 - 📫 How to reach me: victorhenriq77@gmail.com
 - 😄 Pronouns: he/him
-- 🔭 IT technician and currently studying on platforms as of Origamid and B7Web
+- 🔭 IT technician and currently studying on web courses
 
 <details>
   <summary><strong>⚙️ &nbsp;Hard Skills</strong></summary>
