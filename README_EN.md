@@ -6,11 +6,15 @@
  <tr><td><a href="./README.md">Português</a></td></tr>
 </table>
 
+Backend developer focused on Java, but I like to play with other tecnologies sometimes.
+
+<details>
+  <summary><strong>⚙️ &nbsp;About me</strong></summary>
 - 🌱 I'm currently learning: Backend Development
 - 📫 How to reach me: victorhenriq77@gmail.com
 - 😄 Pronouns: he/him
-- 🔭 IT technician and currently studying on web courses
-
+- 🔭 IT technician and currently studying through online courses.
+</details>
 <details>
   <summary><strong>⚙️ &nbsp;Hard Skills</strong></summary>
   <div style="display: inline_block"><br>
