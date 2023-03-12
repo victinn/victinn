@@ -6,11 +6,16 @@
  <tr><td><a href="./README.md">Português</a></td></tr>
 </table>
 
-- 🌱 Atualmente estou estudando: Desenvolvimento Backend
-- 🗣️ Inglês Fluente
-- 📫 Contate-me no email: victorhenriq77@gmail.com
-- 😄 Pronomes: ele/dele
-- 🔭 Técnico em informática e atualmente estudando por cursos como a Origamid e B7Web
+Desenvolvedor backend focado em Java, mas gosto de brincar com outras tecnologias de vez em quando.
+
+<details>
+ <summary><strong>⚙️ &nbsp;Sobre</strong></summary>
+  - 🌱 Atualmente estou estudando: Desenvolvimento Backend <br>
+  - 🗣️ Inglês Fluente <br>
+  - 📫 Contate-me no email: victorhenriq77@gmail.com <br>
+  - 😄 Pronomes: ele/dele <br>
+  - 🔭 Técnico em informática e atualmente estudando por cursos online.
+</details>
 
 <details>
   <summary><strong>⚙️ &nbsp;Tecnologias</strong></summary>
