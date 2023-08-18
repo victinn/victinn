@@ -14,7 +14,7 @@ Desenvolvedor backend focado em Java, mas gosto de brincar com outras tecnologia
   - 🗣️ Inglês Fluente <br>
   - 📫 Contate-me no email: victorhenriq77@gmail.com <br>
   - 😄 Pronomes: ele/dele <br>
-  - 🔭 Técnico em informática e atualmente estudando por cursos online.
+  - 🔭 Técnico em informática e atualmente estou cursando Cieência da Computação na UTFPR.
 </details>
 
 <details>
