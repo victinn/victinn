@@ -13,7 +13,7 @@ Backend developer focused on Java, but I like to play with other tecnologies som
 - 🌱 I'm currently learning: Backend Development
 - 📫 How to reach me: victorhenriq77@gmail.com
 - 😄 Pronouns: he/him
-- 🔭 IT technician and currently studying through online courses.
+- 🔭 IT technician and currently majoring Cumputer Science at UTFPR.
 </details>
 <details>
   <summary><strong>⚙️ &nbsp;Hard Skills</strong></summary>
